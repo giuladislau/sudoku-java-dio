@@ -1,7 +1,7 @@
 # Sudoku Java
 
 ## Sobre
-Projeto de Sudoku em terminal desenvolvido com Java e Programação Orientada a Objetos.
+Jogo de Sudoku em terminal desenvolvido em Java utilizando os princípios de Programação Orientada a Objetos. Possui jogabilidade interativa, validação de movimentos, seleção de dificuldade, verificação de status da partida e arquitetura organizada com foco em legibilidade e manutenção.
 
 ## Funcionalidades
 - Inserção de números
